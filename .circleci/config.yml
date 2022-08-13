@@ -8,4 +8,4 @@ version: 2.1
             password: $DOCKERHUB_PASSWORD
       steps:
         - checkout
-        - run: echo "hello world"
+        - run: echo "Hello World"
